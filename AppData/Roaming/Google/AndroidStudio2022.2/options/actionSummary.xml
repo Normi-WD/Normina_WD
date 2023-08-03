@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="162" l="1689513899232" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="3" l="1689513816127" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1689513650087" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeMessagePanel$4">
+      <i c="1" l="1689513800965" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1689514056575" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1689513940737" />
+    </e>
+  </component>
+</application>

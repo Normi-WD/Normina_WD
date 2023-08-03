@@ -1,0 +1,131 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="a" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AppData/Local/Programs/Microsoft VS Code/resources/app/resources/win32/powershell.ico">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Image">
+      <summary usageCount="1" lastUsed="1689513849738" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="a" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2504019" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="App Inspection" order="4" />
+      <window_info anchor="right" id="Assistant" order="0" weight="0.32998395" />
+      <window_info anchor="right" id="App Links Assistant" order="0" />
+      <window_info anchor="right" id="Device Manager" order="0" weight="0.32998395" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="0" side_tool="true" visible="true" weight="0.32998395" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Running Devices</value>
+      <value>Device File Explorer</value>
+      <value>Project</value>
+      <value>Device Manager</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1689514032752">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="110" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1689514032752" />
+    <state x="390" y="86" key="EnvironmentVariablesDialog" timestamp="1689514010426">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="390" y="86" key="EnvironmentVariablesDialog/0.0.1280.672@0.0.1280.672" timestamp="1689514010426" />
+    <state x="420" y="91" key="FileChooserDialogImpl" timestamp="1689514213704">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="420" y="91" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1689514213704" />
+    <state x="220" y="76" key="IDE.errors.dialog" timestamp="1689513913981">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="220" y="76" key="IDE.errors.dialog/0.0.1280.672@0.0.1280.672" timestamp="1689513913981" />
+    <state x="141" y="0" key="SettingsEditor" timestamp="1689514217234">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.672@0.0.1280.672" timestamp="1689514217234" />
+    <state x="303" y="0" width="672" height="685" key="search.everywhere.popup" timestamp="1689513849775">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="303" y="0" width="672" height="685" key="search.everywhere.popup/0.0.1280.672@0.0.1280.672" timestamp="1689513849775" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AppData/Local/Programs/Microsoft VS Code/resources/app/resources/win32/powershell.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>
